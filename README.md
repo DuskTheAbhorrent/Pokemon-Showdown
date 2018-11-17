@@ -144,8 +144,8 @@ Owner
 
 Staff
 
+- Bär Halberkamp [bumbadadabum] - Development
 - Chris Monsanto [chaos] - Sysadmin
-- Leonardo Julca [Slayer95] - Development
 - Mathieu Dias-Martins [Marty-D] - Research (game mechanics), Development
 - [The Immortal] - Development
 
@@ -155,10 +155,10 @@ Retired Staff
 - Cathy J. Fitzpatrick [cathyjf] - Development, Sysadmin
 - Hugh Gordon [V4] - Research (game mechanics), Development
 - Juanma Serrano [Joim] - Development, Sysadmin
+- Leonardo Julca [Slayer95] - Development
 
 Major Contributors
 
-- Bär Halberkamp [bumbadadabum] - Development
 - Kevin Lau [Ascriptmaster] - Development, Art (battle animations)
 - Konrad Borowski [xfix] - Development
 - Quinton Lee [sirDonovan] - Development
@@ -170,6 +170,7 @@ Contributors
 - Ben Davies [Morfent] - Development
 - Ben Frengley [TalkTakesTime] - Development
 - Cody Thompson [Rising_Dusk] - Development
+- [HoeenHero] - Development
 - [Honko] - Development
 - Ian Clail [Layell] - Art (battle graphics, sprites)
 - Jeremy Piemonte [panpawn] - Development
