@@ -179,6 +179,7 @@ Contributors
 - Robin Vandenbrande [Quinella] - Development
 - [Ridaz] - Art (battle animations)
 - Tobias Mann [asgdf] - Development
+- William R. [jumbowhales] - Development
 
 Special thanks
 
