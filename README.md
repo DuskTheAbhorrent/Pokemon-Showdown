@@ -159,7 +159,7 @@ Retired Staff
 
 Major Contributors
 
-- [HoeenHero] - Development
+- Andrew Werner [HoeenHero] - Development
 - Kevin Lau [Ascriptmaster] - Development, Art (battle animations)
 - Konrad Borowski [xfix] - Development
 - Quinton Lee [sirDonovan] - Development
