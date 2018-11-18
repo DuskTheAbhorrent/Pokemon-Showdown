@@ -166,6 +166,7 @@ Major Contributors
 
 Contributors
 
+- Alexander B [mathfreak321] - Development
 - Andrew Goodsell [Zracknel] - Art (battle weather backdrops)
 - Avery Zimmer [Lyren, SolarisFox] - Development
 - Ben Davies [Morfent] - Development
